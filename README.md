@@ -62,9 +62,9 @@ Use [Streamlit Community Cloud](https://streamlit.io/cloud) — perfect for shar
 
 ---
 
-## ✅ Sample `requirements.txt`:
+## ✅ `requirements.txt`:
 
-Here’s a basic version for your phishing email detector:
+Here’s a basic version for the phishing email detector:
 
 ```
 streamlit
